@@ -1,0 +1,11 @@
+c:\users\trinenbe\documents\visual studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+c:\users\trinenbe\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+c:\users\trinenbe\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+c:\users\trinenbe\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+c:\users\trinenbe\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+c:\users\trinenbe\documents\visual studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+c:\users\trinenbe\documents\visual studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+c:\users\trinenbe\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+c:\users\trinenbe\documents\visual studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\trinenbe\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\bin\Debug\alglibnet2.dll
+C:\Users\trinenbe\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\bin\Debug\DotNumerics.dll
