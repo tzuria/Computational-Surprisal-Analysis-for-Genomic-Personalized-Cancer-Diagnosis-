@@ -1,0 +1,9 @@
+c:\users\trinenbe\documents\visual studio 2015\Projects\FilesReading\FilesReading\bin\Debug\FilesReading.exe.config
+c:\users\trinenbe\documents\visual studio 2015\Projects\FilesReading\FilesReading\bin\Debug\FilesReading.exe
+c:\users\trinenbe\documents\visual studio 2015\Projects\FilesReading\FilesReading\bin\Debug\FilesReading.pdb
+c:\users\trinenbe\documents\visual studio 2015\Projects\FilesReading\FilesReading\obj\Debug\FilesReading.csprojResolveAssemblyReference.cache
+c:\users\trinenbe\documents\visual studio 2015\Projects\FilesReading\FilesReading\obj\Debug\FilesReading.Form1.resources
+c:\users\trinenbe\documents\visual studio 2015\Projects\FilesReading\FilesReading\obj\Debug\FilesReading.Properties.Resources.resources
+c:\users\trinenbe\documents\visual studio 2015\Projects\FilesReading\FilesReading\obj\Debug\FilesReading.csproj.GenerateResource.Cache
+c:\users\trinenbe\documents\visual studio 2015\Projects\FilesReading\FilesReading\obj\Debug\FilesReading.exe
+c:\users\trinenbe\documents\visual studio 2015\Projects\FilesReading\FilesReading\obj\Debug\FilesReading.pdb
