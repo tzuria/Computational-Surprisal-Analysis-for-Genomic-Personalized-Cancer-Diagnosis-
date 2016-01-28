@@ -1,7 +1,7 @@
 Files Reading:
 
 This .sln is an extention software. 
-This software s taking gene expression data, and creat one .csv file that contains all the data.
+This software is taking gene expression data, and creat one .csv file that contains all the data.
 
 input: Path to the gene expression files.
 output: One .csv file that contain all the patients genes expression.
