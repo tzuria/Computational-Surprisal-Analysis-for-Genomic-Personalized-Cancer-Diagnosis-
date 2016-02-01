@@ -1,0 +1,5 @@
+This .sln is the software that can compute the SVD on one input gene expression.
+THis software doesnt have the UI, but just the calculation.
+
+input: One .csv file with gene expression data.
+output: table with the SVD value that was calculate in the program.
