@@ -7,3 +7,23 @@ c:\users\trinenbe\documents\visual studio 2015\Projects\FilesReading\FilesReadin
 c:\users\trinenbe\documents\visual studio 2015\Projects\FilesReading\FilesReading\obj\Debug\FilesReading.csproj.GenerateResource.Cache
 c:\users\trinenbe\documents\visual studio 2015\Projects\FilesReading\FilesReading\obj\Debug\FilesReading.exe
 c:\users\trinenbe\documents\visual studio 2015\Projects\FilesReading\FilesReading\obj\Debug\FilesReading.pdb
+C:\Users\trinenbe\Documents\Visual Studio 2015\Projects\FilesReading\FilesReading\obj\Debug\FilesReading.TransposeCSV.resources
+C:\Users\trinenbe\Documents\Visual Studio 2015\Projects\FilesReading\FilesReading\obj\Debug\FilesReading.GenerateCSVFromDataFiles.resources
+C:\Users\trinenbe\Documents\Visual Studio 2015\Projects\FilesReading\FilesReading\obj\Debug\FilesReading.GroupSeparation.resources
+C:\Users\trinenbe\Documents\Visual Studio 2015\Projects\FilesReading\FilesReading\bin\Debug\FinalProjectPrototype.exe
+C:\Users\trinenbe\Documents\Visual Studio 2015\Projects\FilesReading\FilesReading\bin\Debug\alglibnet2.dll
+C:\Users\trinenbe\Documents\Visual Studio 2015\Projects\FilesReading\FilesReading\bin\Debug\FinalProjectPrototype.pdb
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\bin\Debug\FilesReading.exe.config
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\obj\Debug\FilesReading.exe
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\obj\Debug\FilesReading.pdb
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\bin\Debug\FilesReading.exe
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\bin\Debug\FilesReading.pdb
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\bin\Debug\alglibnet2.dll
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\bin\Debug\FinalProjectPrototype.pdb
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\obj\Debug\FilesReading.csprojResolveAssemblyReference.cache
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\obj\Debug\FilesReading.Form1.resources
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\obj\Debug\FilesReading.GenerateCSVFromDataFiles.resources
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\obj\Debug\FilesReading.GroupSeparation.resources
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\obj\Debug\FilesReading.Properties.Resources.resources
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\obj\Debug\FilesReading.TransposeCSV.resources
+C:\Users\tzuria\JCE\FinalProject\Softwares\FilesReading\FilesReading\obj\Debug\FilesReading.csproj.GenerateResource.Cache

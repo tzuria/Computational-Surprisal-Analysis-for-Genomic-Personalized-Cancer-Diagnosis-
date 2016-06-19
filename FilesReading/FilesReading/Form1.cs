@@ -17,45 +17,29 @@ namespace FilesReading
         public Form1()
         {
             InitializeComponent();
+            Form groupSeparation = new GroupSeparation();
+            groupSeparation.Show();
+            this.Close();
         }
 
-        private void cmdBrowse_Click(object sender, EventArgs e)
+       
+        private void cmdTransposeCSV_Click(object sender, EventArgs e)
         {
-            string[] lines = new string[79];
-            int i = 0;
-
-            var outPutFile = @"C:\ProgramOutput\mRNAtemp1.csv";
-            
-            string[] filePaths = Directory.GetFiles(txtPath.Text+ @"\");
-
-//            lines = System.IO.File.ReadAllLines(path);
-            foreach (string file in filePaths)
-            {
-                
-                    lines[i] = ParseFile(file);
-                    i++;
-            }
-
-            File.WriteAllLines(outPutFile, lines);
-            MessageBox.Show(string.Format("Your .CSV file was generated to : {0}", outPutFile));
+            Form transposeCSV = new TransposeCSV();
+            transposeCSV.Show();
         }
 
-        private string ParseFile(string filePath)
+        private void cmdGenesDataToCSVGenerator_Click(object sender, EventArgs e)
         {
-            string reader = "";
-            string patianteGenesLevel = "";
-            string geneExpressionPattern = "(\\S*)\\s*(?<geneCount>\\S*)";
-            FileStream fileStream = new FileStream(filePath, FileMode.Open, FileAccess.Read);
-
-            using (StreamReader lineReader = new StreamReader(fileStream))
-            {
-                reader = lineReader.ReadLine();
-                while ((reader = lineReader.ReadLine()) != null)
-                {
-                    patianteGenesLevel += Regex.Match(reader, geneExpressionPattern).Groups["geneCount"].Value + ",";
-                }
-            }
-            return patianteGenesLevel.Substring(0,patianteGenesLevel.Length-1);
+            Form CSVGenerator = new GenerateCSVFromDataFiles();
+            CSVGenerator.Show();
         }
+
+        private void cmdGroupSeparation_Click(object sender, EventArgs e)
+        {
+            Form groupSeparation = new GroupSeparation();
+            groupSeparation.Show();
+        }
+
     }
 }

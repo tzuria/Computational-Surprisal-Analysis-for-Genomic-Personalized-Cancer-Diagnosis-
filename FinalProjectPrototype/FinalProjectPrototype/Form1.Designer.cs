@@ -51,15 +51,12 @@
             this.lblSubGroupColor4 = new System.Windows.Forms.Label();
             this.cmbLamdaChoose = new System.Windows.Forms.ComboBox();
             this.cmdGenerateGraph = new System.Windows.Forms.Button();
-            this.cmdAdd1 = new System.Windows.Forms.Button();
-            this.cmdAdd4 = new System.Windows.Forms.Button();
-            this.cmdAdd3 = new System.Windows.Forms.Button();
-            this.cmdAdd2 = new System.Windows.Forms.Button();
             this.lblLamdaChoosing = new System.Windows.Forms.Label();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.cmdAddData = new System.Windows.Forms.Button();
+            this.cmdNIHInput = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -78,7 +75,7 @@
             this.cmdBrowse1.TabIndex = 1;
             this.cmdBrowse1.Text = "brows..";
             this.cmdBrowse1.UseVisualStyleBackColor = true;
-            this.cmdBrowse1.Click += new System.EventHandler(this.cmdBrowse1_Click);
+            this.cmdBrowse1.Click += new System.EventHandler(this.cmdBrowse_Click);
             // 
             // txtClinicalDataDescription1
             // 
@@ -124,7 +121,7 @@
             this.cmdBrowse2.TabIndex = 5;
             this.cmdBrowse2.Text = "brows..";
             this.cmdBrowse2.UseVisualStyleBackColor = true;
-            this.cmdBrowse2.Click += new System.EventHandler(this.cmdBrowse2_Click);
+            this.cmdBrowse2.Click += new System.EventHandler(this.cmdBrowse_Click);
             // 
             // txtUploadCSV2
             // 
@@ -159,7 +156,7 @@
             this.cmdBrowse4.TabIndex = 13;
             this.cmdBrowse4.Text = "brows..";
             this.cmdBrowse4.UseVisualStyleBackColor = true;
-            this.cmdBrowse4.Click += new System.EventHandler(this.cmdBrowse4_Click);
+            this.cmdBrowse4.Click += new System.EventHandler(this.cmdBrowse_Click);
             // 
             // txtUploadCSV4
             // 
@@ -194,7 +191,7 @@
             this.cmdBrowse3.TabIndex = 9;
             this.cmdBrowse3.Text = "brows..";
             this.cmdBrowse3.UseVisualStyleBackColor = true;
-            this.cmdBrowse3.Click += new System.EventHandler(this.cmdBrowse3_Click);
+            this.cmdBrowse3.Click += new System.EventHandler(this.cmdBrowse_Click);
             // 
             // txtUploadCSV3
             // 
@@ -218,7 +215,7 @@
             // 
             this.lblSubGroupColor2.AutoSize = true;
             this.lblSubGroupColor2.BackColor = System.Drawing.Color.Transparent;
-            this.lblSubGroupColor2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.lblSubGroupColor2.ForeColor = System.Drawing.Color.Red;
             this.lblSubGroupColor2.Location = new System.Drawing.Point(318, 107);
             this.lblSubGroupColor2.Name = "lblSubGroupColor2";
             this.lblSubGroupColor2.Size = new System.Drawing.Size(173, 13);
@@ -229,7 +226,7 @@
             // 
             this.lblSubGroupColor3.AutoSize = true;
             this.lblSubGroupColor3.BackColor = System.Drawing.Color.Transparent;
-            this.lblSubGroupColor3.ForeColor = System.Drawing.Color.Fuchsia;
+            this.lblSubGroupColor3.ForeColor = System.Drawing.Color.ForestGreen;
             this.lblSubGroupColor3.Location = new System.Drawing.Point(47, 226);
             this.lblSubGroupColor3.Name = "lblSubGroupColor3";
             this.lblSubGroupColor3.Size = new System.Drawing.Size(173, 13);
@@ -240,7 +237,7 @@
             // 
             this.lblSubGroupColor4.AutoSize = true;
             this.lblSubGroupColor4.BackColor = System.Drawing.Color.Transparent;
-            this.lblSubGroupColor4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.lblSubGroupColor4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.lblSubGroupColor4.Location = new System.Drawing.Point(324, 226);
             this.lblSubGroupColor4.Name = "lblSubGroupColor4";
             this.lblSubGroupColor4.Size = new System.Drawing.Size(173, 13);
@@ -270,46 +267,6 @@
             this.cmdGenerateGraph.Text = "Generate Graph";
             this.cmdGenerateGraph.UseVisualStyleBackColor = false;
             this.cmdGenerateGraph.Click += new System.EventHandler(this.cmdGenerateGraph_Click);
-            // 
-            // cmdAdd1
-            // 
-            this.cmdAdd1.Location = new System.Drawing.Point(226, 81);
-            this.cmdAdd1.Name = "cmdAdd1";
-            this.cmdAdd1.Size = new System.Drawing.Size(42, 23);
-            this.cmdAdd1.TabIndex = 23;
-            this.cmdAdd1.Text = "Add";
-            this.cmdAdd1.UseVisualStyleBackColor = true;
-            this.cmdAdd1.Click += new System.EventHandler(this.cmdAddDataClick);
-            // 
-            // cmdAdd4
-            // 
-            this.cmdAdd4.Location = new System.Drawing.Point(500, 200);
-            this.cmdAdd4.Name = "cmdAdd4";
-            this.cmdAdd4.Size = new System.Drawing.Size(42, 23);
-            this.cmdAdd4.TabIndex = 24;
-            this.cmdAdd4.Text = "Add";
-            this.cmdAdd4.UseVisualStyleBackColor = true;
-            this.cmdAdd4.Click += new System.EventHandler(this.cmdAddDataClick);
-            // 
-            // cmdAdd3
-            // 
-            this.cmdAdd3.Location = new System.Drawing.Point(226, 200);
-            this.cmdAdd3.Name = "cmdAdd3";
-            this.cmdAdd3.Size = new System.Drawing.Size(42, 23);
-            this.cmdAdd3.TabIndex = 25;
-            this.cmdAdd3.Text = "Add";
-            this.cmdAdd3.UseVisualStyleBackColor = true;
-            this.cmdAdd3.Click += new System.EventHandler(this.cmdAddDataClick);
-            // 
-            // cmdAdd2
-            // 
-            this.cmdAdd2.Location = new System.Drawing.Point(500, 81);
-            this.cmdAdd2.Name = "cmdAdd2";
-            this.cmdAdd2.Size = new System.Drawing.Size(42, 23);
-            this.cmdAdd2.TabIndex = 26;
-            this.cmdAdd2.Text = "Add";
-            this.cmdAdd2.UseVisualStyleBackColor = true;
-            this.cmdAdd2.Click += new System.EventHandler(this.cmdAddDataClick);
             // 
             // lblLamdaChoosing
             // 
@@ -361,6 +318,17 @@
             this.cmdAddData.UseVisualStyleBackColor = true;
             this.cmdAddData.Click += new System.EventHandler(this.cmdAddGroup_Click);
             // 
+            // cmdNIHInput
+            // 
+            this.cmdNIHInput.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.cmdNIHInput.Location = new System.Drawing.Point(524, 477);
+            this.cmdNIHInput.Name = "cmdNIHInput";
+            this.cmdNIHInput.Size = new System.Drawing.Size(89, 50);
+            this.cmdNIHInput.TabIndex = 30;
+            this.cmdNIHInput.Text = "Upload NIH files";
+            this.cmdNIHInput.UseVisualStyleBackColor = false;
+            this.cmdNIHInput.Click += new System.EventHandler(this.cmdNIHInput_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -368,13 +336,10 @@
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(644, 561);
+            this.Controls.Add(this.cmdNIHInput);
             this.Controls.Add(this.cmdAddData);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.lblLamdaChoosing);
-            this.Controls.Add(this.cmdAdd2);
-            this.Controls.Add(this.cmdAdd3);
-            this.Controls.Add(this.cmdAdd4);
-            this.Controls.Add(this.cmdAdd1);
             this.Controls.Add(this.cmdGenerateGraph);
             this.Controls.Add(this.cmbLamdaChoose);
             this.Controls.Add(this.lblSubGroupColor4);
@@ -429,15 +394,12 @@
         private System.Windows.Forms.Label lblSubGroupColor4;
         private System.Windows.Forms.ComboBox cmbLamdaChoose;
         private System.Windows.Forms.Button cmdGenerateGraph;
-        private System.Windows.Forms.Button cmdAdd1;
-        private System.Windows.Forms.Button cmdAdd4;
-        private System.Windows.Forms.Button cmdAdd3;
-        private System.Windows.Forms.Button cmdAdd2;
         private System.Windows.Forms.Label lblLamdaChoosing;
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
         private System.Windows.Forms.Button cmdAddData;
+        private System.Windows.Forms.Button cmdNIHInput;
     }
 }
 
