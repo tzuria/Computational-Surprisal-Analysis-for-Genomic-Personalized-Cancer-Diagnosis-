@@ -1,0 +1,26 @@
+c:\users\trinenbe\documents\visual studio 2012\Projects\FinalProjectPrototype\FinalProjectPrototype\bin\Debug\FinalProjectPrototype.exe.config
+c:\users\trinenbe\documents\visual studio 2012\Projects\FinalProjectPrototype\FinalProjectPrototype\bin\Debug\FinalProjectPrototype.exe
+c:\users\trinenbe\documents\visual studio 2012\Projects\FinalProjectPrototype\FinalProjectPrototype\bin\Debug\FinalProjectPrototype.pdb
+c:\users\trinenbe\documents\visual studio 2012\Projects\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.csprojResolveAssemblyReference.cache
+c:\users\trinenbe\documents\visual studio 2012\Projects\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.Form1.resources
+c:\users\trinenbe\documents\visual studio 2012\Projects\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.Properties.Resources.resources
+c:\users\trinenbe\documents\visual studio 2012\Projects\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.csproj.GenerateResource.Cache
+c:\users\trinenbe\documents\visual studio 2012\Projects\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.exe
+c:\users\trinenbe\documents\visual studio 2012\Projects\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.pdb
+C:\Users\trinenbe\Documents\Visual Studio 2012\Projects\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.Graph.resources
+C:\Users\trinenbe\documents\visual studio 2012\Projects\FinalProjectPrototype\FinalProjectPrototype\bin\Debug\alglibnet2.dll
+C:\Users\trinenbe\documents\visual studio 2012\Projects\FinalProjectPrototype\FinalProjectPrototype\bin\Debug\DotNumerics.dll
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\bin\Debug\FinalProjectPrototype.exe.config
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.exe
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.pdb
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.csprojResolveAssemblyReference.cache
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.Form1.resources
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.Properties.Resources.resources
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.csproj.GenerateResource.Cache
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\bin\Debug\FinalProjectPrototype.exe
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\bin\Debug\FinalProjectPrototype.pdb
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\bin\Debug\alglibnet2.dll
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\bin\Debug\DotNumerics.dll
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.SVDValueComp.resources
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.BoxPlotComp.resources
+C:\Users\tzuria\JCE\FinalProject\Softwares\FinalProjectPrototype\FinalProjectPrototype\obj\Debug\FinalProjectPrototype.StatisticalAnalysisComp.resources
